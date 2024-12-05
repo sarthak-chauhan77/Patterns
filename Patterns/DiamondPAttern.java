@@ -17,7 +17,7 @@ public class DiamondPAttern {
 
         // Lower part of the pattern (inverted pyramid)
         for (int i = rows - 1; i >= 1; i--) {
-            for (int j = 1; j <= rows - i; j++) { // Adjust spaces for correct alignment
+            for (int j = 1; j <= rows - i; j++) { 
                 System.out.print(" ");
             }
             for (int j = 1; j <= 2 * i - 1; j++) {
