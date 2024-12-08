@@ -1,5 +1,15 @@
 package Patterns;
-
+/* 
+        *
+      * * *
+     * * * * *
+  * * * * * * *
+ * * * * * * * * *
+   * * * * * * *
+     * * * * *
+      * * * 
+        *
+ */
 public class DiamondPAttern {
     DiamondPAttern() {
         int rows = 5;
