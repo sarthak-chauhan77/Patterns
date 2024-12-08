@@ -1,5 +1,10 @@
 package Patterns;
-
+/*
+          1   
+         212  
+        32123 
+       4321234
+ */
 public class PalindromeTriangular {
     PalindromeTriangular() {
         for (int i = 1; i <= 4; i++) {
