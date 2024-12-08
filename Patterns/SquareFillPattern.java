@@ -1,5 +1,12 @@
 package Patterns;
-
+/*
+       * * * * * * 
+       * * * * * * 
+       * * * * * * 
+       * * * * * * 
+       * * * * * * 
+       * * * * * * 
+ */
 public class SquareFillPattern {
     SquareFillPattern() {
         int rows = 6;
